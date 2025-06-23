@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Varun Nalla</h1>
-<h3 align="center">A passionate frontend and backend developer from Hyderabad</h3>
+<h3 align="center">A passionate Fullstack developer from Hyderabad</h3>
 
 - 🌱 I’m currently learning **django framworks**
 
-- 💬 Ask me about **python,sql,webtech**
+- 💬 Ask me about **python,sql,webtech,Reactjs**
 
 - 📫 How to reach me **varunnalla30@gmail.com**
 
