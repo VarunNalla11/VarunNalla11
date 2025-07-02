@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varun Nalla</h1>
 <h3 align="center">A passionate Fullstack developer from Hyderabad</h3>
 
-- 🌱 I’m currently learning **django framworks**
+- 🌱 I’m currently learning **Git and GitHub**
 
 - 💬 Ask me about **python,sql,webtech,Reactjs**
 
